@@ -26,7 +26,7 @@ public class Retangulo extends Figura implements AreaCalculavel {
     @Override
     public String toString() {
         super.toString();
-        return "Quadrado tem: " +
+        return "\nRetangulo tem: " +
         "\n Largura: " + getLargura() +
         "\n Altura: " + getAltura() +
         "\n Cor: " + getCor() +
